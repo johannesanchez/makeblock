@@ -20,3 +20,6 @@ A:
 udevadm info --name=/dev/ttyUSB0 --attribute-walk
 sudo apt remove brltty
 
+
+More troubleshooting
+https://support.makeblock.com/hc/en-us/articles/4402405530775-Troubleshooting-on-mBot-Neo-mBot2
